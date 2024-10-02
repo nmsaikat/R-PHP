@@ -16,3 +16,11 @@
 3. How What Why PHP sprintf()
 
 4. How What Why if else
+
+5. How What Why else if ladder
+
+6. How What Why Switch Case
+
+7. Nested if else
+
+8. Shorthand if else - Ternary Operator
