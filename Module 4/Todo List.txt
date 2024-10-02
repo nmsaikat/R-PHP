@@ -1,0 +1,18 @@
+1. php vs code extension
+    - PHP IntelliSense
+    - PHP Server
+    - PHP Intelephense
+    - MySQL 
+    - Code Spell Checker
+    - Auto Rename Tag
+    - PHP Debug
+    - Auto Close Tag
+    - Code Runner
+    - Fluent Icons
+    - Material Icon Theme
+
+2. How What Why PHP printf()
+
+3. How What Why PHP sprintf()
+
+4. How What Why if else

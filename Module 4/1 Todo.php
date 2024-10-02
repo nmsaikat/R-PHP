@@ -1,0 +1,12 @@
+1. php vs code extension
+    - PHP IntelliSense
+    - PHP Server
+    - PHP Intelephense
+    - MySQL 
+    - Code Spell Checker
+    - Auto Rename Tag
+    - PHP Debug
+    - Auto Close Tag
+    - Code Runner
+    - Fluent Icons
+    - Material Icon Theme
